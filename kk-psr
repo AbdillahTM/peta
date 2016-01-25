@@ -1,0 +1,602 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Jalur Kereta Api Klakah-Pasirian</name>
+		<description><![CDATA[Data lengkung, stasiun, dan gardu perlintasan]]></description>
+		<Folder>
+			<name>Jalur</name>
+			<Placemark>
+				<name>Area Stasiun Klakah</name>
+				<styleUrl>#line-777777-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.2466465,-7.992586800000001,0.0 113.250399,-7.9948234,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Lengkung 1</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.250399,-7.9948234,0.0 113.2512626,-7.9952855000000005,0.0 113.2518336,-7.9956959,0.0 113.2523509,-7.996199200000001,0.0 113.2526966,-7.996786200000001,0.0 113.252943,-7.9973865,0.0 113.253054,-7.9980718,0.0 113.2530845,-7.9987438,0.0 113.2530441,-7.999067799999999,0.0 113.2529447,-7.9993813,0.0 113.252848,-7.999708,0.0 113.2527191,-7.9999709,0.0 113.25224530000001,-8.000579200000002,0.0 113.25200580000002,-8.0008859,0.0 113.2517233,-8.0011688,0.0 113.2514348,-8.0013992,0.0 113.2510604,-8.0015739,0.0 113.2507196,-8.0017193,0.0 113.2503466,-8.0018409,0.0 113.2473734,-8.0025606,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Peralihan Lengkung 1
+</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.2473734,-8.0025606,0.0 113.2470676,-8.0027572,0.0 113.2468704,-8.0028847,0.0 113.2467035,-8.002984300000001,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Lurus 1
+</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.2467035,-8.002984300000001,0.0 113.2379106,-8.0165845,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 6</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.2379106,-8.0165845,0.0 113.2371046,-8.0172817,0.0 113.2360625,-8.0178089,0.0 113.2332677,-8.0186721,0.0 113.2304889,-8.0195991,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 7</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.2304862,-8.0195991,0.0 113.230167,-8.0197345,0.0 113.22999,-8.0198142,0.0 113.2296816,-8.0199921,0.0 113.229351,-8.0202099,0.0 113.2291813,-8.020364,0.0 113.2288132,-8.0206854,0.0 113.22844140000001,-8.0211249,0.0 113.2281683,-8.021597,0.0 113.2269788,-8.0240111,0.0 113.2262755,-8.025655,0.0 113.2261821,-8.0260906,0.0 113.2261301,-8.0263083,0.0 113.2260807,-8.0265341,0.0 113.2260488,-8.0268156,0.0 113.2260518,-8.0269457,0.0 113.2260574,-8.0271715,0.0 113.2260898,-8.0274238,0.0 113.22616810000001,-8.0278066,0.0 113.2262572,-8.0281866,0.0 113.2266015,-8.0289336,0.0 113.2273009,-8.0304593,0.0 113.2276218,-8.0312235,0.0 113.2281251,-8.0319798,0.0 113.2287451,-8.0326603,0.0 113.2290966,-8.0329674,0.0 113.2294965,-8.0331788,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 8</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.2294965,-8.0331788,0.0 113.2313741,-8.0339875,0.0 113.2316396,-8.0341369,0.0 113.2318085,-8.0343395,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 8</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.2318085,-8.0343395,0.0 113.2347053,-8.0393803,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 9</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.2347053,-8.0393803,0.0 113.2379723,-8.0446867,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 10</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.2379723,-8.0446867,0.0 113.2384551,-8.0455153,0.0 113.23869110000001,-8.0466519,0.0 113.23872330000002,-8.0471619,0.0 113.2386696,-8.0479958,0.0 113.2384658,-8.0491856,0.0 113.2381439,-8.0500699,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 11</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.2381439,-8.0500699,0.0 113.2370496,-8.0547043,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 12</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.2370496,-8.0547043,0.0 113.2388306,-8.0628626,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 13</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.2388306,-8.0628626,0.0 113.2394099,-8.0660919,0.0 113.2390881,-8.0694487,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 14</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.2390881,-8.0694487,0.0 113.239367,-8.071297,0.0 113.2402682,-8.0727417,0.0 113.2412982,-8.0735278,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 15</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.2412982,-8.0735278,0.0 113.24245690000001,-8.0741651,0.0 113.2431436,-8.074845,0.0 113.2436156,-8.0756523,0.0 113.2438731,-8.0763852,0.0 113.2440019,-8.0771182,0.0 113.2440341,-8.0775537,0.0 113.2440126,-8.0778192,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 16</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.2440126,-8.0778192,0.0 113.2429719,-8.0820469,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 17</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.2429719,-8.0820469,0.0 113.2344317,-8.0977038,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 18</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.2344317,-8.0977038,0.0 113.2340026,-8.098304,0.0 113.2338578,-8.0985536,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 19</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.2338578,-8.0985536,0.0 113.2222254,-8.1303888,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 20</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.2222254,-8.1303888,0.0 113.2218951,-8.1310445,0.0 113.2215089,-8.1316446,0.0 113.2209563,-8.1321862,0.0 113.2197547,-8.1329297,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 21</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.2197547,-8.1329297,0.0 113.21201920000001,-8.1371727,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 22</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.21201920000001,-8.1371727,0.0 113.2113326,-8.1376613,0.0 113.2110375,-8.1378843,0.0 113.2107317,-8.1383092,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 23</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.2107317,-8.1383092,0.0 113.1801599,-8.1910963,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 24</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.1801599,-8.1910963,0.0 113.1796342,-8.1916326,0.0 113.1789476,-8.1921423,0.0 113.1782502,-8.1925459,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 25</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.1782502,-8.1925459,0.0 113.1773758,-8.1930662,0.0 113.1770539,-8.193337,0.0 113.1766623,-8.193719300000001,0.0 113.1763673,-8.1940485,0.0 113.1760883,-8.1944573,0.0 113.1758416,-8.1950149,0.0 113.1756592,-8.1955299,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 26</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.1756592,-8.1955299,0.0 113.1735134,-8.2036376,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 27</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.1735134,-8.2036376,0.0 113.1729957,-8.2051163,0.0 113.172645,-8.2056041,0.0 113.17223,-8.2060441,0.0 113.1713247,-8.2068711,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 28</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.1713247,-8.2068711,0.0 113.1654239,-8.2129079,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 29</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.1654239,-8.2129079,0.0 113.1642115,-8.2146388,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 30</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.1642115,-8.2146388,0.0 113.1629723,-8.2161998,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 31</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.1629723,-8.2161998,0.0 113.1626558,-8.2166139,0.0 113.1623393,-8.2169855,0.0 113.1620926,-8.2171979,0.0 113.1617332,-8.2173837,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 32</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.1617332,-8.2173837,0.0 113.1559852,-8.2201313,0.0 113.149572,-8.2228789,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 33</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.149572,-8.2228789,0.0 113.14844010000002,-8.2232771,0.0 113.1479681,-8.2234894,0.0 113.1473458,-8.2235744,0.0 113.14673420000001,-8.2236487,0.0 113.1465089,-8.2236699,0.0 113.14605830000002,-8.2235319,0.0 113.14488890000001,-8.2231496,0.0 113.14396620000001,-8.2228736,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 34</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.14396620000001,-8.2228736,0.0 113.1432045,-8.2228311,0.0 113.1425017,-8.2230727,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 35</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.1425017,-8.2230727,0.0 113.1417668,-8.22337,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 36</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.1417668,-8.22337,0.0 113.1394923,-8.224338900000001,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 37</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.1394923,-8.224338900000001,0.0 113.1389773,-8.2245831,0.0 113.1385133,-8.2247583,0.0 113.1379044,-8.2249442,0.0 113.1374645,-8.2250185,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 38</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.1374645,-8.2250185,0.0 113.12989530000002,-8.2248114,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 39</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.1299007,-8.2248114,0.0 113.1286293,-8.2245354,0.0 113.1283933,-8.2243867,0.0 113.1281787,-8.224169,0.0 113.1277871,-8.2235585,0.0 113.1275296,-8.2229585,0.0 113.1273633,-8.2221727,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 40</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.1273633,-8.2221727,0.0 113.1269717,-8.2183925,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 41</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.1269717,-8.2183925,0.0 113.1267142,-8.2172032,0.0 113.1262636,-8.2163537,0.0 113.1255555,-8.2155679,0.0 113.1250405,-8.2151007,0.0 113.124032,-8.2146123,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 42</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.124032,-8.2146123,0.0 113.1210119,-8.2133645,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Garis 43</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>113.1210119,-8.2133645,0.0 113.120234,-8.2130088,0.0 113.1191611,-8.2128495,0.0 113.1186126,-8.2128203,0.0 113.11806950000002,-8.212892,0.0 113.1171951,-8.2131787,0.0 113.114647,-8.2144131,0.0</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Stasiun</name>
+			<Placemark>
+				<name>Klakah</name>
+				<description><![CDATA[0+000 KM]]></description>
+				<styleUrl>#icon-1239</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>113.2494521,-7.9940531,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Grobogan</name>
+				<styleUrl>#icon-1239-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>113.2378462,-8.0511296,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sukodono</name>
+				<styleUrl>#icon-1239-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>113.2326964,-8.1019951,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lumajang</name>
+				<styleUrl>#icon-1239-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>113.2227802,-8.1290345,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Labruk</name>
+				<styleUrl>#icon-1239-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>113.2007432,-8.1554879,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tempeh</name>
+				<styleUrl>#icon-1239-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>113.1748518,-8.1992386,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mujur</name>
+				<styleUrl>#icon-1239-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>113.15808,-8.2193163,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Condro</name>
+				<styleUrl>#icon-1239-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>113.1309709,-8.2249999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pasirian</name>
+				<styleUrl>#icon-1239-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>113.1157547,-8.2138716,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-1239'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1239-poi-civic.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1239-nodesc'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1239-poi-civic.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-000000-1-nodesc-normal'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>1</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-000000-1-nodesc-highlight'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>2.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-000000-1-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-000000-1-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-000000-1-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-777777-1-nodesc-normal'>
+			<LineStyle>
+				<color>ff777777</color>
+				<width>1</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-777777-1-nodesc-highlight'>
+			<LineStyle>
+				<color>ff777777</color>
+				<width>2.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-777777-1-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-777777-1-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-777777-1-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
